@@ -1,0 +1,18 @@
+{
+  "name": "hw1.1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node src/start.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "KMA-Web-HW1.2"
+  },
+  "author": "gwyn-art",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
